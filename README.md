@@ -1,5 +1,6 @@
 # Linear Algebra Helper
 
+![image alt](https://github.com/DorkWitAFork/Linear-Algebra-Helper/blob/main/LA%20Helper%20Photo.png?raw=true)
 LA Helper is a Windows desktop symbolic matrix calculator and linear-algebra tutor. It is a C++17/Qt 6 rewrite of `LA Helper.py`, using SymEngine for exact arithmetic and symbolic expressions.
 
 ## Features
