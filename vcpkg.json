@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "la-helper",
+  "version-string": "1.0.0",
+  "builtin-baseline": "7ff71c68261ecf3b60cdb8772f2e6759ee0a71b1",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false,
+      "features": [
+        "widgets",
+        "windeployqt"
+      ]
+    },
+    {
+      "name": "symengine",
+      "default-features": false,
+      "version>=": "0.14.0#1"
+    }
+  ]
+}
